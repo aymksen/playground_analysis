@@ -4,9 +4,9 @@ A simple QGIS plugin that analyzes playground accessibility from any location us
 
 
 ### Tool Interface
-![Tool Interface](<img width="1438" height="836" alt="image" src="https://github.com/user-attachments/assets/468926be-a92a-4b76-868e-3e5f8249531a" />
-)
-*Clean, simple interface with search distance setting and analysis buttons*
+
+<img width="1274" height="788" alt="image" src="https://github.com/user-attachments/assets/de5cc497-e10e-4e0d-b30a-e5e3f09ea414" />
+
 
 
 
